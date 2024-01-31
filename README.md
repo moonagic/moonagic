@@ -1,49 +1,39 @@
-## 💪🏻 Skills
-
-### Languages
-[![](https://img.shields.io/badge/Swift-F05137?style=for-the-badge&logo=Swift&logoColor=white)](https://swift.org/)
-<br>
-[![](https://img.shields.io/badge/Objective–C-438dff?style=for-the-badge&logo=objc&logoColor=black)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-<br>
-[![](https://img.shields.io/badge/go-01add8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-<br>
-[![](https://img.shields.io/badge/lua-0c0080?style=for-the-badge&logo=lua&logoColor=61DAFB)](https://lua.org/)
-<br>
-[![](https://img.shields.io/badge/c++-f34a7d?style=for-the-badge&logo=c++&logoColor=61DAFB)](https://www.cplusplus.com/)
-<br>
-[![](https://img.shields.io/badge/rust-dea584?style=for-the-badge&logo=rust&logoColor=61DAFB)](https://www.rust-lang.org/)
-<br>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-### Tools
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
-<br>
-[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=GitLab&logoColor=white)](https://about.gitlab.com/)
-<br>
-[![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
-<br>
-[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
-<br>
-[![](https://img.shields.io/badge/Sketch-fa6400?style=for-the-badge&logo=Sketch&logoColor=white)](https://www.sketch.com/)
-<br>
-[![](https://img.shields.io/badge/Notion-fffefc?style=for-the-badge&logo=notion&logoColor=white)](https://notion.com/)
-<br>
-[![](https://img.shields.io/badge/cloudflare-f6821e?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
+<p>Welcome to my page! </br> I'm Hengmin, Fullstack developer from <b>Chongqing, China</b>
 
-### Cloud
-[![](https://img.shields.io/badge/googlecloud-181717?style=for-the-badge&logo=googlecloud&logoColor=white)](https://azure.com/)
-<br>
-[![](https://img.shields.io/badge/digitalocean-181717?style=for-the-badge&logo=digitalocean&logoColor=white)](https://azure.com/)
-<br>
-[![](https://img.shields.io/badge/linode-181717?style=for-the-badge&logo=linode&logoColor=white)](https://azure.com/)
-<br>
-[![](https://img.shields.io/badge/vultr-181717?style=for-the-badge&logo=vultr&logoColor=white)](https://azure.com/)
-<br>
+**Languages and Frameworks**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" title="Swift"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" title="Lua"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" alt="objective-c" title="objective-c"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" title="Go"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" alt="Rust" title="Rust"></code>
 
 
-## 🤓 Stats
+**Tools and Environments**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHUB" title="GitHUB"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" title="Xcode"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" title="Jetbrains"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" alt="Visual-Studio" title="Visual-Studio"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" title="Debian"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" title="Apple"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma"></code>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=moonagic&show_icons=false&icon_color=0366d6&text_color=24292e&bg_color=eeeeee&hide_title=true)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=moonagic&hide=C++,ipynb,html,JavaScript,c,shell,makefile,css&exclude_repo=QTMerger,spatialmapping)
+**Cloud**
 
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean"></code>
