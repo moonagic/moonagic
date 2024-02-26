@@ -11,7 +11,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" title="Lua"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" alt="objective-c" title="objective-c"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" title="Go"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" alt="Rust" title="Rust"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" title="Rust"></code>
 
 
 **Tools and Environments**
@@ -33,7 +33,7 @@
 
 **Cloud**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean"></code>
